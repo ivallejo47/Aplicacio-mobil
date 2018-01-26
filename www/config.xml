@@ -4,7 +4,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "cat.numancia.ivallejo47"
         versionCode = "00" 
-        version     = "0.0.00" >
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
