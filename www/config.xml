@@ -10,14 +10,14 @@
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>nom del programa</name>
+    <name>Reproductor MP3 </name>
 
    <description>
-       Descripció , nom i grup . Curs Acadèmic.
-    </description>
+    Reproductor de Música ,Ivan Vallejo 4tC 2017-1018 . Curs Acadèmic.
+    </description> 
 
-    <author href="https://numancia.cat/intranet" email="elteucorrreu@iesnumancia.cat">
-       nom de l'autor
+    <author href="https://numancia.cat/intranet" email="ivallejo47@iesnumancia.cat">
+       Ivan Vallejo 
     </author>
 
 	<content src="index.html"/>
